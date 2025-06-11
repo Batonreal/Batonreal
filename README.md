@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Batonreal</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/Batonreal" style="text-decoration: none; color: inherit;">Batonreal</a></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 <p align="center">
   <i>and I’m an RF Engineer and Developer specializing in radio transmission systems</i>
