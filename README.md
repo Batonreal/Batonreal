@@ -5,7 +5,7 @@
   <i>and I’m an RF Engineer and Developer specializing in radio transmission systems</i>
 </p>
 
-<h1 align="center"> Skills </h1>
+<h2 align="center"> Skills </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
@@ -28,6 +28,6 @@
 </div>
 <br>
 
-<h1 align="center"> Stats </h1>
+<h2 align="center"> Stats </h2>
 
 [![Codewars](https://www.codewars.com/users/Batonreal/badges/large)](https://www.codewars.com/users/Batonreal)
