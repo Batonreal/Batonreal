@@ -1,4 +1,5 @@
-# Hi there, I'm Batonreal👋
+<h1>Hi there, I'm Batonreal</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 ## Skills
 
@@ -10,4 +11,4 @@
 
 ## Stats
 
-[![Codewars](images/codewars_paint.png)](https://www.codewars.com/users/Batonreal)
+[![Codewars](https://www.codewars.com/users/Batonreal/badges/large)](https://www.codewars.com/users/Batonreal)
