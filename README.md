@@ -7,24 +7,24 @@
 
 ### Skills
 <div align="center">
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-    ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-    ![RS-485](https://img.shields.io/badge/RS--485-black?style=flat-square)
-    ![Modbus](https://img.shields.io/badge/Modbus-black?style=flat-square)
-    ![SPI](https://img.shields.io/badge/SPI-black?style=flat-square)
-    ![I2C](https://img.shields.io/badge/I2C-black?style=flat-square)
-    ![UART](https://img.shields.io/badge/UART-black?style=flat-square)
-    ![STM32](https://img.shields.io/badge/STM32-black?style=flat-square&logo=stmicroelectronics)
-    ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-7EA5D9?style=flat-square&logo=matplotlib&logoColor=white)
-    ![LabVIEW](https://img.shields.io/badge/LabVIEW-black?style=flat-square&logo=labview)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/RS--485-black?style=for-the-badge" alt="RS-485">
+  <img src="https://img.shields.io/badge/Modbus-black?style=for-the-badge" alt="Modbus">
+  <img src="https://img.shields.io/badge/SPI-black?style=for-the-badge" alt="SPI">
+  <img src="https://img.shields.io/badge/I2C-black?style=for-the-badge" alt="I2C">
+  <img src="https://img.shields.io/badge/UART-black?style=for-the-badge" alt="UART">
+  <img src="https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=stmicroelectronics" alt="STM32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-7EA5D9?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/LabVIEW-black?style=for-the-badge&logo=labview" alt="LabVIEW">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </div>
 <br>
 
