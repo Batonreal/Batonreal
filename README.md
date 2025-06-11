@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Batonreal" style="text-decoration: none; color: inherit;">Batonreal</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.3em;">
   <i>and I’m an RF Engineer and Developer specializing in radio transmission systems</i>
 </p>
 
@@ -10,12 +10,12 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/RS--485-black?style=for-the-badge" alt="RS-485">
-  <img src="https://img.shields.io/badge/Modbus-black?style=for-the-badge" alt="Modbus">
-  <img src="https://img.shields.io/badge/SPI-black?style=for-the-badge" alt="SPI">
-  <img src="https://img.shields.io/badge/I2C-black?style=for-the-badge" alt="I2C">
-  <img src="https://img.shields.io/badge/UART-black?style=for-the-badge" alt="UART">
-  <img src="https://img.shields.io/badge/STM32-black?style=for-the-badge&logo=stmicroelectronics" alt="STM32">
+  <img src="https://img.shields.io/badge/RS--485-4CAF50?style=for-the-badge" alt="RS-485">
+  <img src="https://img.shields.io/badge/Modbus-F44336?style=for-the-badge" alt="Modbus"> 
+  <img src="https://img.shields.io/badge/SPI-2196F3?style=for-the-badge" alt="SPI">
+  <img src="https://img.shields.io/badge/I2C-03A9F4?style=for-the-badge" alt="I2C">
+  <img src="https://img.shields.io/badge/UART-8BC34A?style=for-the-badge" alt="UART">
+  <img src="https://img.shields.io/badge/STM32-FFEB3B?style=for-the-badge&logo=stmicroelectronics&logoColor=black" alt="STM32">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Matplotlib-7EA5D9?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
